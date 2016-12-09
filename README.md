@@ -61,7 +61,7 @@ Writing the led_keys is a bit more involved. The file expects a single digit whi
 <pre>
 value= wasd &lt;&lt; 4 | key
 
-where: 
+where:
    wasd - WASD light intensity
    key - Other key light intensity
 
